@@ -48,7 +48,6 @@ La base de datos se crea cada vez que se levanta un contenedor de Docker, por lo
    ```
 
 ### Arquitectura de AWS Propuesta
-To propose an AWS architecture for your project, let's consider a typical web application setup that includes a backend, frontend, and a database. Here is a basic architecture that you can use:
 
 ## Propuesta #1
 1. **AWS EC2**
