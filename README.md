@@ -47,16 +47,16 @@ La base de datos se crea cada vez que se levanta un contenedor de Docker, por lo
    ./script.sh
    ```
 
-### Arquitectura de AWS Propuesta
+## Arquitectura de AWS Propuesta
 
-## Propuesta #1
+### Propuesta #1
 1. **AWS EC2**
     - **Docker**: Correr contenedores de backend y frontend en Docker.
 2. **AWS Route 56**
     - **Domain Name**: Registrar dominio.
     - **DNS Management**: MGestionar los registros DNS de su dominio.
 
-## Propuesta #2
+### Propuesta #2
 
 1. **Frontend**:
    - **Amazon S3**: Hosteo de archivos estaticos.
